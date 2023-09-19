@@ -22,3 +22,6 @@
 [submodule "libs/qmdnsengine"]
 	path = libs/qmdnsengine
 	url = https://github.com/patrickelectric/qmdnsengine
+[submodule "utm-plugin"]
+	path = custom
+	url = ssh://git@github.com/hhla-sky/qgc-utm-plugin.git
